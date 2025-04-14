@@ -1,13 +1,16 @@
-# Performance Audit 
 
-Doe een Performance audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
+## DHMIS (Don't Hug Me I'm Scared)
 
-De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/performance-audit/blob/main/docs/INSTRUCTIONS.md).
- 
+<img width="1247" alt="image" src="https://github.com/user-attachments/assets/c4251a37-5f68-47d7-ad7d-2f41522fb258" />
 
-## Titel Website
+De DHMIS site is een site dat sinds kort is gemaakt voor de DHMIS series. [Seizoen 1](https://www.youtube.com/@donthugmeimscared/videos) is gratis te bekijken op YouTube. Voor seizoen 2 moet betaald worden. Dit kon vroeger alleen via een engelse streaming service, maar dit is nu beschikbaar op de DHIMS site. 
 
-Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
+De serie heeft een kinder cartoon setting, maar na het bekijken van de eerste aflevering kom je er snel achter dit deze serie zeker niet bedoeld is voor kinderen. Het exacte doel van de serie is voor eigen interpretatie, wat ik ook zo leuk vind aan deze serie. Veel van de afleveringen hebben een doel en een thema erachter, met vaak een diepere betekenis. 
+
+Ik ben een enorm horror fan, en dit was voor mij één van de meest unieke twists op de genre. Ik zou het niet eens classificeren als horror, maar zo voelde het soms wel. Ik vind het erg uniek hoe de makers van DHMIS zijn gekomen met dit concept, design en kunst en deze serie heeft altijd wat bij mij achter gelaten. Vandaar dat ik kies om hun nieuwe site te reviewen, omdat ik hoop dat ze zo goed sites kunnen bouwen als dat ze series kunnen. 
+
+
+
 
 Toon screenshots van het Lighthouse Performance testresultaat voor Mobile, Desktop, de Core Web Vitals Assessment van PageSpeed Insights (als die beschikbaar is) en de waterfall chart van WebPageTest.
 
