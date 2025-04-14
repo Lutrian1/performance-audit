@@ -10,6 +10,8 @@ De serie heeft een kinder cartoon setting, maar na het bekijken van de eerste af
 
 Ik ben een enorm horror fan, en dit was voor mij één van de meest unieke twists op de genre. Ik zou het niet eens classificeren als horror, maar zo voelde het soms wel. Ik vind het erg uniek hoe de makers van DHMIS zijn gekomen met dit concept, design en kunst en deze serie heeft altijd wat bij mij achter gelaten. Vandaar dat ik kies om hun nieuwe site te reviewen, omdat ik hoop dat ze zo goed sites kunnen bouwen als dat ze series kunnen.
 
+##LGLEG
+
 Toon screenshots van het Lighthouse Performance testresultaat voor Mobile, Desktop, de Core Web Vitals Assessment van PageSpeed Insights (als die beschikbaar is) en de waterfall chart van WebPageTest.
 
 Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie van je onderzoek.
