@@ -1,6 +1,6 @@
 
 
-## DHMIS (Don't Hug Me I'm Scared)
+# DHMIS (Don't Hug Me I'm Scared)
 
 <img width="1247" alt="image" src="https://github.com/user-attachments/assets/b766f286-549c-45f9-98cc-c118ba7b6919" />
 
